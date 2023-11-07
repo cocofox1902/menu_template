@@ -9,7 +9,7 @@ function Navbar() {
       <ul className="flex justify-center space-x-4">
         {categories.map((category, index) => (
           <li key={index}>
-            <a href={`#${category}`} className="opacity-50 hover:opacity-100 transition-all duration-200 p-1">
+            <a href={`#${category}`} className="opacity-50 hover:opacity-100 transition-all duration-200 p-1 text-[3rem]">
               {category}
             </a>
           </li>

@@ -1,9 +1,9 @@
 function Home() {
   return (
     <div className="bg-blue-200">
-      <div className="text-4xl text-center py-8">La Carte</div>
+      <div className="text-[8rem] text-center py-8">La Carte</div>
       <div className="flex justify-center pb-8">
-        <button className="text-2xl bg-gray-400 px-2">Réserver</button>
+        <a className="text-[3rem] bg-gray-400 px-6" href="tel:0624538782">Réserver</a>
       </div>
     </div>
   );
