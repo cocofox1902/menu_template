@@ -1,0 +1,252 @@
+{
+  "Entrées": [
+    {
+      "Titre": "Salade César",
+      "Description": "Laitue romaine, croûtons, parmesan râpé, vinaigrette César.",
+      "Prix": 8.5,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Soupe à l'Oignon",
+      "Description": "Bouillon d'oignons caramélisés, fromage fondu, croûton.",
+      "Prix": 6.95,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Carpaccio de Saumon",
+      "Description": "Saumon cru mariné, citron, câpres, roquette.",
+      "Prix": 11.75,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Escargots à la Bourguignonne",
+      "Description": "Escargots cuits au beurre à l'ail et au persil.",
+      "Prix": 12.95,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Bruschetta Tomate-Mozzarella",
+      "Description": "Tranches de pain grillé, tomates, mozzarella, basilic, huile d'olive.",
+      "Prix": 9.25,
+      "Végétarien": false
+    }
+  ],
+  "Plats": [
+    {
+      "Titre": "Filet Mignon aux Morilles",
+      "Description": "Filet mignon de bœuf, sauce aux morilles, légumes de saison.",
+      "Prix": 25.5,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Poulet Parmesan",
+      "Description": "Blanc de poulet pané, sauce tomate, fromage fondu, spaghetti.",
+      "Prix": 18.75,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Risotto aux Champignons",
+      "Description": "Riz crémeux aux champignons sautés, parmesan râpé.",
+      "Prix": 16.95,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Poisson du Jour (Bar grillé)",
+      "Description": "Bar grillé, purée de pommes de terre, légumes grillés.",
+      "Prix": 22.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Linguine aux Fruits de Mer",
+      "Description": "Linguine, crevettes, moules, palourdes, sauce tomate.",
+      "Prix": 20.25,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Côte de Porc à la Moutarde",
+      "Description": "Côte de porc grillée, sauce à la moutarde, frites.",
+      "Prix": 19.5,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Lasagnes à la Bolognaise",
+      "Description": "Lasagnes à la viande hachée, béchamel, fromage fondu.",
+      "Prix": 15.75,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Magret de Canard à l'Orange",
+      "Description": "Magret de canard grillé, sauce à l'orange, pommes de terre rissolées.",
+      "Prix": 24.95,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Raviolis aux Épinards et Ricotta",
+      "Description": "Raviolis farcis aux épinards et ricotta, sauce au beurre et à la sauge.",
+      "Prix": 17.25,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Galette de Légumes (Végétarien)",
+      "Description": "Galette de légumes, salade verte, vinaigrette balsamique.",
+      "Prix": 13.5,
+      "Végétarien": true
+    }
+  ],
+  "Desserts": [
+    {
+      "Titre": "Tiramisu",
+      "Description": "Dessert italien à base de mascarpone, café, biscuits imbibés.",
+      "Prix": 7.95,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Crème Brûlée",
+      "Description": "Crème vanillée, sucre caramélisé.",
+      "Prix": 8.25,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Mousse au Chocolat",
+      "Description": "Mousse au chocolat noir, chantilly.",
+      "Prix": 6.75,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Tarte aux Pommes",
+      "Description": "Tarte aux pommes caramélisées, glace à la vanille.",
+      "Prix": 9.5,
+      "Végétarien": true
+    },
+    {
+      "Titre": "Profiteroles",
+      "Description": "Choux à la crème glacée, sauce au chocolat chaud.",
+      "Prix": 10.95,
+      "Végétarien": true
+    }
+  ],
+  "Vins": [
+    {
+      "Titre": "Château Margaux (Bordeaux, France)",
+      "Description": "Vin rouge, millésime 2015.",
+      "Prix": 150.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Chardonnay Rutherford (Napa Valley, USA)",
+      "Description": "Vin blanc sec.",
+      "Prix": 45.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Barolo (Piemonte, Italie)",
+      "Description": "Vin rouge, millésime 2016.",
+      "Prix": 75.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Sauvignon Blanc (Marlborough, Nouvelle-Zélande)",
+      "Description": "Vin blanc sec.",
+      "Prix": 35.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Pinot Noir (Willamette Valley, Oregon, USA)",
+      "Description": "Vin rouge, millésime 2018.",
+      "Prix": 50.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Champagne Dom Pérignon",
+      "Description": "Champagne brut, millésime 2008.",
+      "Prix": 200.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Merlot (Toscane, Italie)",
+      "Description": "Vin rouge, millésime 2017.",
+      "Prix": 40.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Riesling (Moselle, Allemagne)",
+      "Description": "Vin blanc sec.",
+      "Prix": 30.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Malbec (Mendoza, Argentine)",
+      "Description": "Vin rouge, millésime 2019.",
+      "Prix": 42.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Rosé Côtes de Provence (France)",
+      "Description": "Vin rosé sec.",
+      "Prix": 28.0,
+      "Végétarien": false
+    }
+  ],
+  "Boissons": [
+    {
+      "Titre": "Eau Minérale (Plate ou Gazeuse)",
+      "Description": "0,5 L.",
+      "Prix": 3.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Soda (Coca-Cola, Pepsi, Sprite)",
+      "Description": "0,33 L.",
+      "Prix": 3.5,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Jus d'Orange Frais",
+      "Description": "0,25 L.",
+      "Prix": 4.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Café (Expresso ou Allongé)",
+      "Description": "Tasse de café fraîchement moulu.",
+      "Prix": 2.5,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Thé (Variété de thés disponibles)",
+      "Description": "Thé chaud.",
+      "Prix": 3.5,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Cocktail Mojito",
+      "Description": "Menthe, citron vert, rhum, eau gazeuse.",
+      "Prix": 9.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Bières (Sélection de bières locales et importées)",
+      "Description": "Diverses bières en bouteille.",
+      "Prix": 4.50,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Limonade Fraîche",
+      "Description": "Limonade maison.",
+      "Prix": 5.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Lait Frais",
+      "Description": "0,25 L.",
+      "Prix": 3.0,
+      "Végétarien": false
+    },
+    {
+      "Titre": "Smoothie aux Fruits (Variété de fruits disponibles)",
+      "Description": "Mélange de fruits frais et yaourt.",
+      "Prix": 6.5,
+      "Végétarien": false
+    }
+  ]
+}
