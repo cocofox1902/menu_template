@@ -1,6 +1,7 @@
-import Home from "./pages/Home";
-import Navbar from "./pages/Navbar";
-import Menu from "./pages/Menu";
+import Home from "./components/Home";
+import Navbar from "./components/Navbar";
+import Menu from "./components/Menu";
+import ArrowUp from "./components/ArrowUp";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Home />
       <Navbar />
       <Menu />
+      <ArrowUp />
     </div>
   );
 }
